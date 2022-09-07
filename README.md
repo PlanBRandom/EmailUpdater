@@ -1,0 +1,2 @@
+# EmailUpdater
+nodemailer auth local
